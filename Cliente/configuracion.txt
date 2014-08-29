@@ -1,0 +1,24 @@
+#Configuracion del cliente
+HOST_SERVER = 127.0.0.1
+PORT_SERVER = 16000
+
+#Configuracion de pantalla
+NOMBRE_APP = Time Travelers Alpha
+VERSION_APP = 0.0.1
+FULLSCREEN = 0
+LARGO_PANTALLA = 800
+ANCHO_PANTALLA = 600
+FPS = 30
+
+#Configuracion de Sonido
+Music = 0
+Sound = 0
+Volumen = 0
+
+#Configuracion del usuario 
+USERNAME = erichris
+PASSWORD = annieteamo1
+
+# 0.- Español 1.- Ingles
+IDIOMA = 0
+
